@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/recvAreaClearIcon.png</file>
+        <file>Image/recvAreaDownIcon.png</file>
+        <file>Image/recvAreaDownMove_ON.png</file>
+        <file>Image/recvAreaDownMove_OFF.png</file>
+        <file>Image/recvAreaSaveIcon.png</file>
+        <file>Image/recvAreaTimeIcon_OFF.png</file>
+        <file>Image/sendAreaUpIcon.png</file>
+        <file>Image/serialPortIcon.png</file>
+        <file>Image/serialPortUpdateIcon.png</file>
+        <file>Image/ComboBox_indicator.png</file>
+        <file>Image/recvAreaTimeIcon_ON.png</file>
+        <file>Image/CheckBox_OFF.png</file>
+        <file>Image/CheckBox_ON.png</file>
+        <file>Image/serialPortWindowIcon.ico</file>
+        <file>Image/serialPortTitleCloseIcon_OFF.png</file>
+        <file>Image/serialPortTitleCloseIcon_ON.png</file>
+        <file>Image/serialPortTitleIcon.png</file>
+        <file>Image/serialPortTitleMinimizedIcon_OFF.png</file>
+        <file>Image/serialPortTitleMinimizedIcon_ON.png</file>
+        <file>Image/Message_Error.png</file>
+        <file>Image/Message_Info.png</file>
+        <file>Image/Message_Success.png</file>
+        <file>Image/Message_Warning.png</file>
+    </qresource>
+</RCC>
